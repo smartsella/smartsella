@@ -13,19 +13,19 @@
 
 [🔭 Here's my 🌐 Portfolio](https://smartsella.github.io/portfolio/)
 
-👨‍💻 I am a Certified Mern Full Stack Developer with a strong foundation in front-end and back-end technologies.
+👨‍💻 I am a Web Developer skilled in JavaScript, React.js, and Node.js, with a strong foundation in both front-end and back-end development.
 
-🌱 I enjoy working on scalable applications and database-driven solutions.
+🌱 I enjoy building responsive, scalable websites and interactive web applications.
 
-💡 Passionate about problem solving, DSA, and applying modern development practices.
+💡 Passionate about problem-solving, clean code, and applying modern web development practices.
 
-🚀 Currently exploring Spring Boot, and Cloud deployment to strengthen my full-stack skills.
+🚀 Currently exploring advanced React patterns, API integrations, and backend optimizations to sharpen my full-stack skills.
 
-🎯 My career goal is to become a Web Developer contributing to impactful products that make a difference.
+🎯 My career goal is to grow as a Web Developer, contributing to impactful projects that deliver real value to users.
 
-⚡ Fun fact: I love solving coding challenges and experimenting with new tools.
+⚡ Fun fact: I love solving JavaScript challenges and experimenting with new tools and frameworks.
 
-💼 Actively seeking Website Developer / React js and Mern Full Stack opportunities
+💼 Actively seeking opportunities in Website Development / React.js / Full Stack (MERN) roles.
 
 🌍 Connect with me on
 <p> </p>
@@ -42,15 +42,13 @@
 ## 🚀 Tech Stack  
 
 <p align="center">
-  
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/>  
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />  
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>  
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>  
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/>  
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
 </p>
 
@@ -78,4 +76,4 @@
 ---
 
 ## 📊 GitHub Contribution Graph  
-[![Selladurai’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smartsella-dev&bg_color=0d1117&color=00F7FF&line=38EF7D&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Selladurai’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smartsella&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
