@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=smartsella&color=00F7FF&style=flat-square" alt="Profile Visitors"/>
+</p>
+
+<p align="center">
   <a href="https://smartsella.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-smartsella.github.io-00A6ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
@@ -10,7 +14,7 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  </p>
+</p>
 
 ---
 
@@ -18,28 +22,96 @@
 
 <br>
 
-👨‍💻 I am a Web Developer skilled in JavaScript, React.js, and Node.js, with a strong foundation in both front-end and back-end development.
+I am a passionate and results-driven **MERN Full Stack Developer** with a strong foundation in building responsive, scalable, and interactive web applications.
 
-🌱 I enjoy building responsive, scalable websites and interactive web applications.
-
-💡 Passionate about problem-solving, clean code, and applying modern web development practices.
-
-🚀 Currently exploring advanced React patterns, API integrations, and backend optimizations to sharpen my full-stack skills.
-
-🎯 My career goal is to grow as a Web Developer, contributing to impactful projects that deliver real value to users.
-
-⚡ Fun fact: I love solving JavaScript challenges and experimenting with new tools and frameworks.
-
-💼 Actively seeking opportunities in **Website Development / React.js / Full Stack (MERN)** roles.
+- 👨‍💻 **What I do:** I specialize in using JavaScript, React.js, and Node.js to bring ideas to life, from the front-end user interface to the back-end logic and database.
+- 💡 **Passion:** I am driven by clean code, creative problem-solving, and applying modern web development practices to create seamless user experiences.
+- 🚀 **Currently:** I am sharpening my full-stack skills by diving deeper into advanced React patterns, scalable backend architecture, and new API integrations.
+- 🎯 **Goal:** My career goal is to contribute to impactful projects that deliver real value, collaborating with a team to build and grow.
+- 💼 **Status:** **Actively seeking opportunities** in Website Development / React.js / Full Stack (MERN) roles.
 
 ---
 
-### 📊 My GitHub Stats
+### 🌱 I'm Currently Learning
+
+- [ ] Advanced TypeScript for robust application development.
+- [ ] GraphQL for more efficient API data fetching.
+- [ ] Exploring Next.js for server-side rendering (SSR) and static site generation (SSG).
+
+---
+
+### 🚀 My Projects
+
+Here are some of the projects I've worked on.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Project Title 1</h3>
+      <br>
+      <p align="center">
+        </p>
+      <p>
+        <strong>Description:</strong> A brief 1-2 sentence description of your project. What problem does it solve? What was its purpose?
+      </p>
+      <p>
+        <strong>Tech Stack:</strong> React, Node.js, Express, MongoDB
+      </p>
+      <p align="center">
+        <a href="YOUR_LIVE_DEMO_LINK_HERE" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00A6ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+        </a>
+        &nbsp;
+        <a href="YOUR_GITHUB_REPO_LINK_HERE" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Project Title 2</h3>
+      <br>
+      <p align="center">
+        </p>
+      <p>
+        <strong>Description:</strong> A brief 1-2 sentence description of your project. What problem does it solve? What was its purpose?
+      </p>
+      <p>
+        <strong>Tech Stack:</strong> JavaScript, HTML5, CSS3, (e.g., a vanilla JS app)
+      </p>
+      <p align="center">
+        <a href="YOUR_LIVE_DEMO_LINK_HERE" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00A6ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+        </a>
+        &nbsp;
+        <a href="YOUR_GITHUB_REPO_LINK_HERE" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  </table>
+
+---
+
+### 📊 My GitHub Stats & Trophies
+
+<table>
+  <tr>
+    <td width="50%">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=smartsella&show_icons=true&theme=tokyonight&cache_seconds=86400&hide_border=true" alt="Selladurai's GitHub Stats" />
+      </p>
+    </td>
+    <td width="50%">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartsella&layout=compact&theme=tokyonight&cache_seconds=86400&hide_border=true" alt="Selladurai's Top Languages" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=smartsella&show_icons=true&theme=tokyonight&cache_seconds=86400&hide_border=true" alt="Selladurai's GitHub Stats" />
-  &nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartsella&layout=compact&theme=tokyonight&cache_seconds=86400&hide_border=true" alt="Selladurai's Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=smartsella&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -78,6 +150,7 @@
     <td>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
     </td>
   </tr>
@@ -93,11 +166,34 @@
 
 ---
 
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  &nbsp;
+  <a href="httpsJ://YOUR_HASHNODE_BLOG.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog"/>
+  </a>
+</p>
+
+---
+
 <details>
   <summary>Click to see my Workspace Specs 💻</summary>
   <br>
   <p align="center">
     <img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11"/>
+T
     <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GTX1650"/>
     <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD Ryzen 5"/>
   </p>
