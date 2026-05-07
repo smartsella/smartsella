@@ -36,10 +36,10 @@
 
 ## 🚀 Tech Stack & ⚙️ Tools  
 
-<table width="100%">
+<table width="50%">
 
 <tr>
-<td align="left">
+<td align="center">
 
 ### 🚀 Tech Stack  
 <hr>
