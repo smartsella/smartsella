@@ -36,25 +36,27 @@
 
 ## 🚀 Tech Stack & ⚙️ Tools  
 
-<table>
-<tr>
+<table align="center">
 
-<td align="center" width="50%">
+<tr>
+<td align="center">
 
 ### 🚀 Tech Stack  
 
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png"/> 
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png"/>  
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/>  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
 
 </td>
+</tr>
 
-<td align="center" width="50%">
+<tr>
+<td align="center">
 
 ### ⚙️ Tools I Use  
 
@@ -63,8 +65,8 @@
 <img height="50" width="50" src="https://img.icons8.com/color/480/null/notion--v1.png"/>  
 
 </td>
-
 </tr>
+
 </table>
 
 ---
