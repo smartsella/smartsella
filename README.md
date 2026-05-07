@@ -36,10 +36,11 @@
 
 ## 🚀 Tech Stack & ⚙️ Tools  
 
-<table align="center">
+<table width="100%">
 
 <tr>
-<td align="center">
+
+<td align="left">
 
 ### 🚀 Tech Stack  
 
@@ -53,10 +54,12 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
 
 </td>
+
 </tr>
 
 <tr>
-<td align="center">
+
+<td align="left">
 
 ### ⚙️ Tools I Use  
 
@@ -65,6 +68,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/480/null/notion--v1.png"/>  
 
 </td>
+
 </tr>
 
 </table>
