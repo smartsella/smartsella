@@ -83,5 +83,21 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/selladurai-web-developer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/selladurai22" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" />
+  </a>
+  <a href="https://instagram.com/_5mart_5ella_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Contribution Graph  
 [![Selladurai’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smartsella&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
