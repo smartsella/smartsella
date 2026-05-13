@@ -73,8 +73,6 @@
 
 ## 💻 Workspace Specs  
 
-<h3 align="left">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h3>
-
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
   <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> 
